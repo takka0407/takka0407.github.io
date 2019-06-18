@@ -1,0 +1,54 @@
+body {
+    margin-right: 50px;
+    margin-left: 50px;
+    background-image: url("images/osyann.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: aliceblue;
+}
+#url {
+    background-color: #414141;
+    color: #101010;
+}
+#tuitta- {
+    margin-right: 310px;
+    margin-left: 310px;
+    background-color: #04A6EB;
+    color: #fbffff;
+}
+#tuitta-2 {
+    background-color: #04A6EB;
+}
+#kakke- {
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color: rgba(10, 10, 10, 0.5);
+}
+#kakke-2 {
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: rgba(20, 20, 20, 0.7);
+}
+table {
+    background-color: #202020;
+    color: #fbffff
+}
+#takka {
+    float: left;
+}
+#nannmonai {
+    clear: both;
+}
+#miekun {
+    float: left;
+}
+#nannmonai2 {
+    clear: both;
+}
+#tizu {
+    background-image: url("sa-ba-tizu.png");
+}
+#map {
+    margin-left: 210px;
+}
