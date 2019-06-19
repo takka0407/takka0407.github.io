@@ -52,7 +52,7 @@ table {
 #map {
     margin-left: 210px;
 }
-@media screen and (max-width: 800px){
+@media screen and (max-width: 480px){
     body {
         margin-right: 10px;
         margin-left: 10px;
