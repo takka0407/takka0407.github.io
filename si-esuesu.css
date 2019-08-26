@@ -52,6 +52,9 @@ table {
 #map {
     margin-left: 210px;
 }
+#im {
+    float: left;
+}
 @media screen and (max-width: 480px){
     body {
         margin-right: 10px;
