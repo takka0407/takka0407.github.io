@@ -1,0 +1,106 @@
+@media only screen and (max-width: 640px){
+    .sumaho img{
+        float: none;
+        margin: 0 auto;
+        width: 400px;
+        height: 200px;
+    }
+    .sumahomozi {
+        font-size: 12px;
+    }
+    .sumahomozi2 {
+        font-size: 30px;
+    }
+    .sumahomozi img{
+        width: 400px;
+        height: 400px;
+    }
+    .sumahozyoukyou img{
+        width: 400px;
+        height: 100px;
+    }
+    .youtube {
+        width: 300px;
+        height: 100px;
+    }
+    .map img{
+        width: 400px;
+        height: 400px;
+    }
+    .takka-mozi {
+        font-size: 15px;
+    }
+    .miekunmozi {
+        font-size: 15px;
+    }
+    .sonotamozi {
+        font-size: 15px;
+    }
+    body {
+        margin-right: 10px;
+        margin-left: 10px;
+        background-image: url("images/osyann.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        color: aliceblue;
+    }
+    
+    #url {
+        background-color: #414141;
+        color: #101010;
+    }
+    #tuitta- {
+        margin-right: 20px;
+        background-color: #04A6EB;
+        color: #fbffff;
+    }
+    #tuitta-2 {
+        background-color: #04A6EB;
+    }
+    .sumahokakke- {
+        margin-right: 10px;
+        margin-left: 10px;
+        background-color: rgba(10, 10, 10, 0.5);
+    }
+    .sumahokakke-2 {
+        margin-right: 20px;
+        margin-left: 20px;
+        background-color: rgba(20, 20, 20, 0.7);
+    }
+    table {
+        background-color: #202020;
+        color: #fbffff
+    }
+    .sumahotakka {
+        float: left;
+    }
+    .sumahonannmonai {
+        clear: both;
+    }
+    .sumahomiekun {
+        float: left;
+    }
+    .sumahonannmonai2 {
+        clear: both;
+    }
+    #tizu {
+        background-image: url("sa-ba-tizu.png");
+    }
+    #map {
+        margin-left: 70px;
+    }
+    #douga {
+        margin-left: 70px;
+    }
+    #douga2 {
+        margin-left: 20px;
+    }
+    .btn{
+    border-radius: 5px;
+    background-color: green;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    }
+}
