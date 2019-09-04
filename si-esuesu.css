@@ -84,6 +84,10 @@ table {
         width: 400px;
         height: 400px;
     }
+    #im img{
+        width: 400px;
+        height:200px;
+    }    
     .takka-mozi {
         font-size: 15px;
     }
