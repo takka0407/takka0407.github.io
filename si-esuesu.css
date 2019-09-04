@@ -20,12 +20,12 @@ body {
 #tuitta-2 {
     background-color: #04A6EB;
 }
-#kakke- {
+.sumahokakke- {
     margin-right: 50px;
     margin-left: 50px;
     background-color: rgba(10, 10, 10, 0.5);
 }
-#kakke-2 {
+.sumahokakke-2 {
     margin-right: 100px;
     margin-left: 100px;
     background-color: rgba(20, 20, 20, 0.7);
@@ -34,28 +34,65 @@ table {
     background-color: #202020;
     color: #fbffff
 }
-#takka {
+.sumahotakka {
     float: left;
 }
-#nannmonai {
+.sumahonannmonai {
     clear: both;
 }
-#miekun {
+.sumahomiekun {
     float: left;
 }
-#nannmonai2 {
+.sumahonannmonai2 {
     clear: both;
 }
 #tizu {
     background-image: url("sa-ba-tizu.png");
 }
-#map {
+.map {
     margin-left: 210px;
 }
 #im {
     float: left;
 }
-@media screen and (max-width: 480px){
+@media only screen and (max-width: 600px){
+    .sumaho img{
+        float: none;
+        margin: 0 auto;
+        width: 400px;
+        height: 200px;
+    }
+    .sumahomozi {
+        font-size: 12px;
+    }
+    .sumahomozi2 {
+        font-size: 30px;
+    }
+    .sumahomozi img{
+        width: 400px;
+        height: 400px;
+    }
+    .sumahozyoukyou img{
+        width: 400px;
+        height: 100px;
+    }
+    .youtube {
+        width: 300px;
+        height: 100px;
+    }
+    .map img{
+        width: 400px;
+        height: 400px;
+    }
+    .takka-mozi {
+        font-size: 15px;
+    }
+    .miekunmozi {
+        font-size: 15px;
+    }
+    .sonotamozi {
+        font-size: 15px;
+    }
     body {
         margin-right: 10px;
         margin-left: 10px;
@@ -65,6 +102,7 @@ table {
         background-attachment: fixed;
         color: aliceblue;
     }
+    
     #url {
         background-color: #414141;
         color: #101010;
@@ -77,12 +115,12 @@ table {
     #tuitta-2 {
         background-color: #04A6EB;
     }
-    #kakke- {
+    .sumahokakke- {
         margin-right: 10px;
         margin-left: 10px;
         background-color: rgba(10, 10, 10, 0.5);
     }
-    #kakke-2 {
+    .sumahokakke-2 {
         margin-right: 20px;
         margin-left: 20px;
         background-color: rgba(20, 20, 20, 0.7);
@@ -91,16 +129,16 @@ table {
         background-color: #202020;
         color: #fbffff
     }
-    #takka {
+    .sumahotakka {
         float: left;
     }
-    #nannmonai {
+    .sumahonannmonai {
         clear: both;
     }
-    #miekun {
+    .sumahomiekun {
         float: left;
     }
-    #nannmonai2 {
+    .sumahonannmonai2 {
         clear: both;
     }
     #tizu {
@@ -122,4 +160,8 @@ table {
     text-align: center;
     color: white;
     }
+}
+
+@media only screen and (max-width:600px){
+
 }
