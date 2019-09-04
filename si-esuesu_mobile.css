@@ -31,6 +31,10 @@
         width: 320px;
         height: 320px;
     }
+    .sumahogazou img {
+        width: 320px;
+        height: 100px;
+    }
     .takka-mozi {
         font-size: 15px;
     }
