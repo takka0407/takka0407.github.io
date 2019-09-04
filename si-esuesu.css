@@ -59,8 +59,8 @@ table {
     .sumaho img{
         float: none;
         margin: 0 auto;
-        width: 400px;
-        height: 200px;
+        width: 300px;
+        height: 100px;
     }
     .sumahomozi {
         font-size: 12px;
@@ -69,11 +69,11 @@ table {
         font-size: 30px;
     }
     .sumahomozi img{
-        width: 400px;
-        height: 400px;
+        width: 300px;
+        height: 300px;
     }
     .sumahozyoukyou img{
-        width: 400px;
+        width: 300px;
         height: 100px;
     }
     .youtube {
@@ -81,12 +81,12 @@ table {
         height: 100px;
     }
     .map img{
-        width: 400px;
-        height: 400px;
+        width: 300px;
+        height: 300px;
     }
     #im img{
-        width: 400px;
-        height:200px;
+        width: 300px;
+        height:100px;
     } 
     #tuitta- {
         width: 200px;
