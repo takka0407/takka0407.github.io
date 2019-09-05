@@ -100,7 +100,7 @@
         background-image: url("sa-ba-tizu.png");
     }
     #map {
-        margin-left: 70px;
+        margin-left: none;
     }
     #douga {
         margin-left: 70px;
