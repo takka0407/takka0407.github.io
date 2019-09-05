@@ -3,7 +3,7 @@
         float: none;
         margin: 0 auto;
         width: 320px;
-        height: 70px;
+        height: 90px;
     }
     .sumahomozi {
         font-size: 12px;
@@ -21,7 +21,7 @@
     }
     .youtube {
         width: 320px;
-        height: 90px;
+        height: 180px;
     }
     .map img{
         width: 320px;
@@ -33,7 +33,7 @@
     }
     .sumahogazou img {
         width: 320px;
-        height: 200px;
+        height: 180px;
     }
     .takka-mozi {
         font-size: 15px;
