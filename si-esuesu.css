@@ -20,6 +20,9 @@ body {
 #tuitta-2 {
     background-color: #04A6EB;
 }
+.red {
+    font-color: red
+}
 .sumaho img{
     width: 1080px;
     height: 360px;
